@@ -22,6 +22,7 @@ The simulation outputs per-frame scalar field data, which is visualized offline 
 
 Below is an example of wave interference and propagation captured from the simulation:
 
+![scalar-wave-field](https://github.com/user-attachments/assets/9008389d-ad5e-44e9-84aa-434df912f78b)
 
 ---
 
